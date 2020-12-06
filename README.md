@@ -1,1 +1,2 @@
-Repositório de POO
+Projeto 02 Java
+
