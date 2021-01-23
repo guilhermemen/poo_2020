@@ -105,7 +105,7 @@ void alimentar(){
     if(!alive){
         return;
     }
-     setEnergia(energia +1);
+    setEnergia(energia +1);
     setlimpo(limpo -2);
     setfome(fome +1);
     this.diamonds +=1;
