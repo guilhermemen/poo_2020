@@ -57,6 +57,9 @@ public class cebolinha {
             careca.fugir();
         System.out.println(careca);
         careca.descanso(1);
+        careca.amarrarOcoelho();
+        careca.amarrarOcoelho();
+        careca.amarrarOcoelho();
         System.out.println(careca);
 
         careca.fiosdevolta();
