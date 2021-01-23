@@ -32,14 +32,15 @@ public class Borracha {
         }else if(this.espessura < ponta.espessura){
             System.out.println("não entra, pode comprar outra");
         }else{
-            this.ponta = ponta;
+            //this.ponta = ponta;
         }
     }
 
     void retirar(){
         if(this.ponta != null){
-            this.ponta = null;
             System.out.println("vou trocar a ponta");
+        }else{
+            System.out.println("deixa pra la, fica essa msm");
         }
     }
 
