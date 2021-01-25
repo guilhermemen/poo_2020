@@ -145,9 +145,9 @@ public String toString(){
             }else if(ai[0].equals("brincar")){ 
                 pikachu.brincar();
             }else if(ai[0].equals("banhar")){
-                pikachu.brincar();
+                pikachu.banhar();
             }else if(ai[0].equals("alimentar")){
-                pikachu.brincar();
+                pikachu.alimentar();
             }else if(ai[0].equals("mimir")){
                 pikachu.mimir();
             }
