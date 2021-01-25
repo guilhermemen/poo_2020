@@ -1,0 +1,3 @@
+Projeto do Banco
+
+Com o inicio do projeto eu estav com uma dificuldade de etender o que pedia para ser realizado, entao eu procurei alguns exemplos pela a apostila e vi alguma videos aulas, mas mesmo assim demorei um pouco pra relizar, tive um problema na resolução do arraylist, tem uns problemas que eu nao conseigui resolver, então digamos que foi umeio que um fracasso, demorei umas 4 horas para fazer, sem contar as pausas que fiz. 
